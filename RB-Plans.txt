@@ -1,2 +1,5 @@
 November -> GIT,GITHUB,ML,CODEIGNITER
 December -> API
+
+2023
+Januari -> ...
